@@ -1,0 +1,24 @@
+{
+  "source": {
+    "type": "github-release",
+    "owner": "storytold",
+    "repo": "cadcraft",
+    "version": "0.12.0",
+    "tag": "v0.12.0",
+    "archive": "cadcraft-0.12.0-linux-x86_64.tar.gz",
+    "url": "https://github.com/storytold/cadcraft/releases/download/v0.12.0/cadcraft-0.12.0-linux-x86_64.tar.gz",
+    "hash": "sha256-auJ7nqvDYIyu81agD2m5/cy/HkCNYwi1YUtuayVjCN4="
+  },
+  "package": {
+    "repo": "cadcraft",
+    "version": "0.12.0"
+  },
+  "binary": {
+    "name": "cadcraft"
+  },
+  "meta": {
+    "description": "Cadcraft, an open-source creative app from the ArtCraft Craft app suite",
+    "homepage": "https://github.com/storytold/cadcraft",
+    "licenseSpdx": "MIT OR Apache-2.0"
+  }
+}
